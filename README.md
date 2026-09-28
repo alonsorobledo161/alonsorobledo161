@@ -29,5 +29,5 @@ Análisis de ingeniería detallados sobre problemas reales de producción y opti
 
 ### 📁 Repositorios Destacados
 
-* **[nombre-del-repo-1](https://github.com/alonsorobledo161/RESCOL)** — Implementacion C++ de algoritmo metaheurístico basado en Ant Colony Optimization.
+* **[RESCOL](https://github.com/alonsorobledo161/RESCOL)** — Implementacion C++ de algoritmo metaheurístico basado en Ant Colony Optimization.
 ---
